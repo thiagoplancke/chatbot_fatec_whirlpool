@@ -5,6 +5,10 @@ from port_ia import responder_ia  # <-- import da outra pasta com a "IA"
 
 app = Flask(__name__)
 
+@app.route("/.well-known/pki-validation/168499FDE3A370D6E87F282F7B21103E.txt")
+def validation():
+    return render_template('168499FDE3A370D6E87F282F7B21103E.txt')
+
 @app.route("/feedback", methods=["POST"])
 def feedback():
     data = request.get_json()
