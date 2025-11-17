@@ -41,4 +41,5 @@ def get_response():
     return jsonify({"response": resposta})
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    context = ("local.crt", "local.key")
+    app.run(debug=True, ssl_context=context)
