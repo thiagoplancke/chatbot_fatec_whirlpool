@@ -41,5 +41,5 @@ def get_response():
     return jsonify({"response": resposta})
 
 if __name__ == "__main__":
-    context = ("local.crt", "local.key")
-    app.run(debug=True, ssl_context=context)
+    context = ("certs/certificate.crt", "certs/private.key")
+    app.run(host="0.0.0.0", port=443, ssl_context=context)
