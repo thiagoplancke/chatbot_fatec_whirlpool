@@ -7,3 +7,4 @@ services:
       - GEMINI_API_KEY=
     ports:
       - '80:5000'
+      - '443:443'
