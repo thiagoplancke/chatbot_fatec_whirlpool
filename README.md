@@ -2,7 +2,7 @@
 
 Assistente Virtual Inteligente
 
-## Visão Geral do Projeto
+## Visão Geral do Projeti
 
 Este projeto visa desenvolver um chatbot inteligente para auxiliar os clientes da Whirlpool com dúvidas sobre produtos (por exemplo, máquinas de lavar, fogões). O chatbot utiliza Processamento de Linguagem Natural (PLN) para interpretar perguntas e fornecer respostas relevantes, simulando a interação humana. O projeto integra modelos avançados de IA (Gemini) para uma comunicação aprimorada com o usuário.
 
