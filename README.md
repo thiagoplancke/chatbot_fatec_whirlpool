@@ -20,7 +20,7 @@ Este projeto visa desenvolver um chatbot inteligente para auxiliar os clientes d
 - [Matheus Armelindo](https://github.com/armelindo428) (Scrum Master)
 - [Tarsis Lima](https://github.com/tarsislimadev) (Back-end)
 - [Thiago Plancke](https://github.com/thiagoplancke) (Back-end)
-- [Mateus Linardi](https://github.com/mateozin) (Back-end)
+- [Mateus Linardi](https://github.com/mateozin) (front-end)
 - [Kevin Walker](https://github.com/kevin64dsu-zx) (Front-end)
 - [Emannuel Paulo](https://github.com/emannuelp-boldrin) (Designer)
 
