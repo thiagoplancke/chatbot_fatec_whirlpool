@@ -2,7 +2,7 @@
 
 Assistente Virtual Inteligente
 
-## Visão Geral do Projeto
+## Visão Geral do Projeti
 
 Este projeto visa desenvolver um chatbot inteligente para auxiliar os clientes da Whirlpool com dúvidas sobre produtos (por exemplo, máquinas de lavar, fogões). O chatbot utiliza Processamento de Linguagem Natural (PLN) para interpretar perguntas e fornecer respostas relevantes, simulando a interação humana. O projeto integra modelos avançados de IA (Gemini) para uma comunicação aprimorada com o usuário.
 
@@ -20,7 +20,7 @@ Este projeto visa desenvolver um chatbot inteligente para auxiliar os clientes d
 - [Matheus Armelindo](https://github.com/armelindo428) (Scrum Master)
 - [Tarsis Lima](https://github.com/tarsislimadev) (Back-end)
 - [Thiago Plancke](https://github.com/thiagoplancke) (Back-end)
-- [Mateus Linardi](https://github.com/mateozin) (front-end)
+- [Mateus Linardi](https://github.com/mateozin) (Front-end)
 - [Kevin Walker](https://github.com/kevin64dsu-zx) (Front-end)
 - [Emannuel Paulo](https://github.com/emannuelp-boldrin) (Designer)
 
